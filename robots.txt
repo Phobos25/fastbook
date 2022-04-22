@@ -1,1 +1,1 @@
-Sitemap: https://fastpages.fast.ai/sitemap.xml
+Sitemap: https://phobos25.github.io/fastbook/https://phobos25.github.io/fastbook/sitemap.xml
